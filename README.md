@@ -46,7 +46,7 @@
 上游源：  
 https://github.com/timqian/chinese-independent-blogs 上一次同步于2021/07/23  
 https://github.com/caibingcheng/rssblog 上一次同步于2021/07/31  
-https://github.com/volfclub/travellings 新增该源，等待同步
+https://github.com/volfclub/travellings 新增该源，等待同步  
 https://github.com/typlog/china-indie-podcasts 上一次同步于2021/06/16  
 https://github.com/shidenggui/bloghub 暂未使用此源  
 https://github.com/RSS-Renaissance/awesome-blogCN-feeds 已使用此源，但该源不活跃  
