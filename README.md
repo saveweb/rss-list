@@ -2,15 +2,17 @@
 
 > 中文博客列表太多了......
 
-本项目订阅源通过opml文件的方式发布：(包含独立博客和独立播客)
+本项目订阅源通过opml文件的方式发布：(包含独立博客和独立播客)  
+
+**关注我们的[Telegram频道](https://t.me/blogrsslist)或Watch本仓库以及时获取opml更新。**
 
 1、定期发布的opml源：https://github.com/saveweb/rss-list/releases (推荐)
 > - 分类良好  
 > - 订阅源与box.othing.xyz相同(发布时)  
 
 ```
-总订阅源：824
-文章总数：36 200
+总订阅源：928
+文章总数：47 397
 ```
 
 2、实时生成的opml订阅源：https://box.othing.xyz/realtime.opml.xml (不推荐)
@@ -36,15 +38,13 @@
 - SSL出错: 证书过期或域名绑定不正常
 - 处理中：我处理出错源的暂存分类，把它当作cache就好了。
 
-关注我们的频道 (https://t.me/blogrsslist) 或Watch本仓库以及时获取opml更新。
-
 本项目除了我们自己主动收录的博客/播客，还包括以下上游源：
 > 本仓库把下面的源的源文件放入 /srouce 文件夹是方便搜索。
 
 ----
 
 上游源：  
-https://github.com/timqian/chinese-independent-blogs 上一次同步于2021/07/23  
+https://github.com/timqian/chinese-independent-blogs 上一次同步于2021/10/10  
 https://github.com/caibingcheng/rssblog 上一次同步于2021/08/27  
 https://github.com/volfclub/travellings 新增该源，等待同步  
 https://github.com/typlog/china-indie-podcasts 上一次同步于2021/06/16  
