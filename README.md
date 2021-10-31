@@ -42,15 +42,18 @@
 - SSL出错: 证书过期或域名绑定不正常
 - 处理中：我处理出错源的暂存分类，把它当作cache就好了。
 
+
+
 本项目除了我们自己主动收录的博客/播客，还包括以下上游源：
-> 本仓库把下面的源的源文件放入 /srouce 文件夹是方便搜索。
 
-----
-
-上游源：  
-https://github.com/timqian/chinese-independent-blogs 上一次同步于2021/10/10  
-https://github.com/caibingcheng/rssblog 上一次同步于2021/08/27  
-https://github.com/volfclub/travellings 新增该源，等待同步  
-https://github.com/typlog/china-indie-podcasts 上一次同步于2021/06/16  
-https://github.com/shidenggui/bloghub 暂未使用此源  
-https://github.com/RSS-Renaissance/awesome-blogCN-feeds 已使用此源，但该源不活跃  
+| 地址 | 状态 | 上一次同步（跟踪） |
+| --- | --- | --- |
+| https://github.com/timqian/chinese-independent-blogs                 | 已使用; 跟踪中 | 2021/10/10 |
+| https://github.com/caibingcheng/rssblog                              | 已使用; 跟踪中 | 2021/10/31 |
+| https://github.com/typlog/china-indie-podcasts                       | 已使用; 跟踪中 | 2021/06/16 |
+| https://github.com/volfclub/travellings                              | 暂未使用      |            |
+| https://github.com/shidenggui/bloghub                                | 暂未使用      |            |
+| http://www.jetli.com.cn/                                             | 暂未使用      |            |
+| https://www.foreverblog.cn/                                          | 暂未使用      |            |
+| http://rss.wys.me/                                                   | 暂未使用      |            |
+| https://github.com/RSS-Renaissance/awesome-blogCN-feeds （已停止维护） | 已使用        | 很久以前    |
