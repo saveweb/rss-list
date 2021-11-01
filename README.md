@@ -53,6 +53,7 @@
 | https://github.com/typlog/china-indie-podcasts                       | 已使用; 跟踪中 | 2021/06/16 |
 | https://github.com/volfclub/travellings                              | 暂未使用      |            |
 | https://github.com/shidenggui/bloghub                                | 暂未使用      |            |
+| https://github.com/alaskasquirrel/Chinese-Podcasts                   | 暂未使用      |            |
 | http://www.jetli.com.cn/                                             | 暂未使用      |            |
 | https://www.foreverblog.cn/                                          | 暂未使用      |            |
 | http://rss.wys.me/                                                   | 暂未使用      |            |
