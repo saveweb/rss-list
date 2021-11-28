@@ -48,7 +48,7 @@
 
 | 地址 | 状态 | 上一次同步（跟踪） |
 | --- | --- | --- |
-| https://github.com/timqian/chinese-independent-blogs                 | 已使用; 跟踪中 | 2021/10/31 |
+| https://github.com/timqian/chinese-independent-blogs                 | 已使用; 跟踪中 | 2021/11/28 |
 | https://github.com/caibingcheng/rssblog                              | 已使用; 跟踪中 | 2021/10/31 |
 | https://github.com/typlog/china-indie-podcasts                       | 已使用; 跟踪中 | 2021/06/16 |
 | https://github.com/volfclub/travellings                              | 暂未使用      |            |
