@@ -60,4 +60,5 @@
 | https://github.com/Han0nly/SecurityRSS                               | 暂未使用      |            |
 | https://github.com/Gracker/Rss-IT                                    | 暂未使用      |            |
 | https://github.com/NUAA-Open-Source/BlogRoll                         | 暂未使用      |            |
+| https://github.com/olist213/information_subscription                 | 暂未使用      |            |
 | https://github.com/RSS-Renaissance/awesome-blogCN-feeds （已停止维护） | 已使用        | 很久以前    |
