@@ -4,6 +4,8 @@
 
 本项目订阅源通过opml文件的方式发布：(包含独立博客、独立播客、Newsletter)  
 
+预览： https://box.othing.xyz
+
 **关注我们的[Telegram频道](https://t.me/blogrsslist)或Watch本仓库以及时获取opml更新。**  
 **本项目的维护状况可见:[saveweb/doing/issues](https://github.com/saveweb/doing/issues)**  
 **所有收录的博客同时进入 [Save The Web] ([1](https://github.com/saveweb))([2](https://saveweb.othing.xyz/))([3](https://t.me/saveweb)) 项目的管理范围内。**  
@@ -60,5 +62,6 @@
 | https://github.com/Han0nly/SecurityRSS                               | 暂未使用      |            |
 | https://github.com/Gracker/Rss-IT                                    | 暂未使用      |            |
 | https://github.com/NUAA-Open-Source/BlogRoll                         | 暂未使用      |            |
+| https://github.com/tuna/blogroll                                     | 暂未使用      |            |
 | https://github.com/olist213/information_subscription                 | 暂未使用      |            |
 | https://github.com/RSS-Renaissance/awesome-blogCN-feeds （已停止维护） | 已使用        | 很久以前    |
