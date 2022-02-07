@@ -58,7 +58,6 @@
 | https://github.com/alaskasquirrel/Chinese-Podcasts                   | 暂未使用      |            |
 | http://www.jetli.com.cn/                                             | 暂未使用      |            |
 | https://www.foreverblog.cn/                                          | 暂未使用      |            |
-| http://rss.wys.me/                                                   | 暂未使用      |            |
 | https://github.com/Han0nly/SecurityRSS                               | 暂未使用      |            |
 | https://github.com/Gracker/Rss-IT                                    | 暂未使用      |            |
 | https://github.com/NUAA-Open-Source/BlogRoll                         | 暂未使用      |            |
