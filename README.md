@@ -67,3 +67,4 @@
 | [alaskasquirrel/Chinese-Podcasts: 中文 播客 🎧 科技、编程语言、设计、Vlog、音乐...](https://github.com/alaskasquirrel/Chinese-Podcasts) | 暂未使用      |            |
 | [alaskasquirrel/Email-newsletter-RSS: 邮箱 📧 newsletter RSS 荟萃](https://github.com/alaskasquirrel/Email-newsletter-RSS) | 暂未使用      |            |
 | https://github.com/RSS-Renaissance/awesome-blogCN-feeds （已停止维护） | 已使用        | 很久以前    |
+| [zh-blogs/blog-daohang: 中文博客网站列表导航](https://github.com/zh-blogs/blog-daohang) | 暂未使用      |            |
