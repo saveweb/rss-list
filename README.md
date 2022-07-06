@@ -53,6 +53,7 @@
 | https://github.com/timqian/chinese-independent-blogs                 | 已使用; 跟踪中 | 2022/02/07 |
 | https://github.com/caibingcheng/rssblog                              | 已使用; 跟踪中 | 2022/02/07 |
 | https://github.com/typlog/china-indie-podcasts                       | 已使用; 跟踪中 | 2022/02/07 |
+| [zh-blogs/blog-daohang: 中文博客网站列表导航](https://github.com/zh-blogs/blog-daohang) | 已使用；开始追踪      |            |
 | https://github.com/volfclub/travellings                              | 暂未使用      |            |
 | https://github.com/shidenggui/bloghub                                | 暂未使用      |            |
 | https://github.com/alaskasquirrel/Chinese-Podcasts                   | 暂未使用      |            |
@@ -67,4 +68,3 @@
 | [alaskasquirrel/Chinese-Podcasts: 中文 播客 🎧 科技、编程语言、设计、Vlog、音乐...](https://github.com/alaskasquirrel/Chinese-Podcasts) | 暂未使用      |            |
 | [alaskasquirrel/Email-newsletter-RSS: 邮箱 📧 newsletter RSS 荟萃](https://github.com/alaskasquirrel/Email-newsletter-RSS) | 暂未使用      |            |
 | https://github.com/RSS-Renaissance/awesome-blogCN-feeds （已停止维护） | 已使用        | 很久以前    |
-| [zh-blogs/blog-daohang: 中文博客网站列表导航](https://github.com/zh-blogs/blog-daohang) | 暂未使用      |            |
