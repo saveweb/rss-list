@@ -51,8 +51,8 @@
 | 地址 | 状态 | 上一次同步（跟踪） |
 | --- | --- | --- |
 | https://github.com/timqian/chinese-independent-blogs                 | 已使用; 跟踪中 | 2022/07/22 commit:4f351aef880f405 |
-| https://github.com/caibingcheng/rssblog                              | 已使用; 跟踪中 | 2022/02/07 |
-| https://github.com/typlog/china-indie-podcasts                       | 已使用; 跟踪中 | 2022/02/07 |
+| https://github.com/caibingcheng/rssblog                              | 已使用; 跟踪中 | 2022/07/22 |
+| https://github.com/typlog/china-indie-podcasts                       | 已使用; 跟踪中 | 2022/07/22 |
 | [zh-blogs/blog-daohang: 中文博客网站列表导航](https://github.com/zh-blogs/blog-daohang) | 已使用；开始追踪      |            |
 | https://github.com/volfclub/travellings                              | 暂未使用      |            |
 | https://github.com/shidenggui/bloghub                                | 暂未使用      |            |
