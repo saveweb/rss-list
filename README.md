@@ -54,6 +54,7 @@
 | https://github.com/caibingcheng/rssblog                              | 已使用; 跟踪中 | 2022/07/22 |
 | https://github.com/typlog/china-indie-podcasts                       | 已使用; 跟踪中 | 2022/07/22 |
 | [zh-blogs/blog-daohang: 中文博客网站列表导航](https://github.com/zh-blogs/blog-daohang) | 已使用；开始追踪      |            |
+| [qianguyihao/blog-list: 中文博客琅琊榜，只收录精品独立博客](https://github.com/qianguyihao/blog-list)| 暂未使用      |            |
 | https://github.com/volfclub/travellings                              | 暂未使用      |            |
 | https://github.com/shidenggui/bloghub                                | 暂未使用      |            |
 | https://github.com/alaskasquirrel/Chinese-Podcasts                   | 暂未使用      |            |
