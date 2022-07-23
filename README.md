@@ -55,11 +55,13 @@
 | https://github.com/typlog/china-indie-podcasts                       | 已使用; 跟踪中 | 2022/07/22 |
 | [zh-blogs/blog-daohang: 中文博客网站列表导航](https://github.com/zh-blogs/blog-daohang) | 已使用；开始追踪      |            |
 | [qianguyihao/blog-list: 中文博客琅琊榜，只收录精品独立博客](https://github.com/qianguyihao/blog-list)| 暂未使用      |            |
+| [大魏博客导航大全](https://link.wwwsheep.com/)                         | 暂未使用      |            |
+| [博客集-ZDZN](https://www.zdzn.net/page/blog.html)                    | 暂未使用      |            |
 | https://github.com/volfclub/travellings                              | 暂未使用      |            |
 | https://github.com/shidenggui/bloghub                                | 暂未使用      |            |
 | https://github.com/alaskasquirrel/Chinese-Podcasts                   | 暂未使用      |            |
-| http://www.jetli.com.cn/                                             | 暂未使用      |            |
-| https://www.foreverblog.cn/                                          | 暂未使用      |            |
+| [博客志 - 优秀个人独立博客导航](http://www.jetli.com.cn/)                | 暂未使用      |            |
+| [十年之约](https://www.foreverblog.cn/)                               | 暂未使用      |            |
 | https://github.com/Han0nly/SecurityRSS                               | 暂未使用      |            |
 | https://github.com/Gracker/Rss-IT                                    | 暂未使用      |            |
 | https://github.com/NUAA-Open-Source/BlogRoll                         | 暂未使用      |            |
