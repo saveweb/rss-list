@@ -59,7 +59,6 @@
 | [博客集-ZDZN](https://www.zdzn.net/page/blog.html)                    | 暂未使用      |            |
 | https://github.com/volfclub/travellings                              | 暂未使用      |            |
 | https://github.com/shidenggui/bloghub                                | 暂未使用      |            |
-| https://github.com/alaskasquirrel/Chinese-Podcasts                   | 暂未使用      |            |
 | [博客志 - 优秀个人独立博客导航](http://www.jetli.com.cn/)                | 暂未使用      |            |
 | [十年之约](https://www.foreverblog.cn/)                               | 暂未使用      |            |
 | https://github.com/Han0nly/SecurityRSS                               | 暂未使用      |            |
