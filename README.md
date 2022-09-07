@@ -15,8 +15,8 @@
 > - 订阅源与box.othing.xyz相同(发布时)  
 
 ```
-总订阅源：1 201
-文章总数：67 858
+总订阅源：1 452
+文章总数：87 529
 ```
 
 2、实时生成的opml订阅源：https://box.othing.xyz/realtime.opml.xml (不推荐)
