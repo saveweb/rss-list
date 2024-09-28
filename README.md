@@ -4,7 +4,7 @@
 
 本项目订阅源通过opml文件的方式发布：(包含独立博客、独立播客、Newsletter)  
 
-预览： https://box.othing.xyz
+预览： https://box.save-web.org
 
 **关注我们的[Telegram频道](https://t.me/blogrsslist)或Watch本仓库以及时获取opml更新。**  
 **本项目的维护状况可见:[saveweb/doing/issues](https://github.com/saveweb/doing/issues)**  
@@ -12,15 +12,15 @@
 
 1、定期发布的opml源：https://github.com/saveweb/rss-list/releases (推荐)
 > - 分类良好  
-> - 订阅源与box.othing.xyz相同(发布时)  
+> - 订阅源与 box.save-web.org 相同(发布时)  
 
 ```
-总订阅源：1 452
-文章总数：87 529
+总订阅源：1 908
+文章总数：159 076
 ```
 
-2、实时生成的opml订阅源：https://box.othing.xyz/realtime.opml.xml (不推荐)
-> - 订阅源实时同步box.othing.xyz  
+2、实时生成的opml订阅源：https://box.save-web.org/realtime.opml.xml (不推荐)
+> - 订阅源实时同步 box.save-web.org
 > - 部分订阅源的分类可能不正确  
 > - 分类和订阅源**时常变动**  
 
@@ -50,9 +50,9 @@
 
 | 地址 | 状态 | 上一次同步（跟踪） |
 | --- | --- | --- |
-| https://github.com/timqian/chinese-independent-blogs                 | 已使用; 跟踪中 | 2022/07/22 commit:4f351aef880f405 |
-| https://github.com/caibingcheng/rssblog                              | 已使用; 跟踪中 | 2022/07/22 |
-| https://github.com/typlog/china-indie-podcasts                       | 已使用; 跟踪中 | 2022/07/22 |
+| https://github.com/timqian/chinese-independent-blogs                 | 已使用; 跟踪中 | 2024/09/28 |
+| https://github.com/caibingcheng/rssblog (项目不再活跃)               | 停止使用 | 2022/07/22 |
+| https://github.com/typlog/china-indie-podcasts (项目不再活跃)        | 停止使用 | 2022/07/22 |
 | [zh-blogs/blog-daohang: 中文博客网站列表导航](https://github.com/zh-blogs/blog-daohang) | 已使用；开始追踪      |            |
 | [qianguyihao/blog-list: 中文博客琅琊榜，只收录精品独立博客](https://github.com/qianguyihao/blog-list)| 暂未使用      |            |
 | [大魏博客导航大全](https://link.wwwsheep.com/)                         | 暂未使用      |            |
